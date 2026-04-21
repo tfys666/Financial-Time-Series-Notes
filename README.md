@@ -31,7 +31,7 @@
 
 ## 💡 使用指南 (How to Use)
 
-* **阅读建议**: 笔记中包含了大量 $\LaTeX$ 编写的统计学公式。如果在 GitHub 网页端阅读遇到公式渲染不完全的情况，建议 `git clone` 到本地，使用支持数学公式的 Markdown 编辑器（如 Obsidian、Typora 等）打开。笔记已过滤掉冗长的背景废话，每一节均为“干货”。重点关注模型之间的**联系与区别**（例如 ADF 检验为什么比 DF 更好？为什么需要 PACF 判断 AR 模型？）。
+* **阅读建议**: 笔记中包含了大量 $\LaTeX$ 编写的统计学公式。如果在 GitHub 网页端阅读遇到公式渲染不完全的情况，建议 `git clone` 到本地，使用支持数学公式的 Markdown 编辑器（如 Obsidian、Typora 等）打开。
 
 ## 📝 贡献与修订 (Contributing)
 
